@@ -1,0 +1,48 @@
+NASA’s Webb, Hubble Combine to Create Most Colorful View of Universe - NASA
+NASA’s James Webb Space Telescope and Hubble Space Telescope have united to study an expansive galaxy cluster known as MACS0416.
+The resulting panchromatic image combines visible and infrared light to assemble one of the most comprehensive views of the universe ever taken.
+Located about 4.3 billion light-years from Earth, MACS0416 is a pair of colliding galaxy clusters that will eventually combine to form an even bigger cluster.
+The image reveals a wealth of details that are only possible to capture by combining the power of both space telescopes.
+It includes a bounty of galaxies outside the cluster and a sprinkling of sources that vary over time, likely due to gravitational lensing – the distortion and amplification of light from distant background sources.
+This cluster was the first of a set of unprecedented, super-deep views of the universe from an ambitious, collaborative Hubble program called the Frontier Fields, inaugurated in 2014.
+Hubble pioneered the search for some of the intrinsically faintest and youngest galaxies ever detected.
+Webb’s infrared view significantly bolsters this deep look by going even farther into the early universe with its infrared vision.
+“We are building on Hubble’s legacy by pushing to greater distances and fainter objects,” said Rogier Windhorst of Arizona State University, principal investigator of the PEARLS program (Prime Extragalactic Areas for Reionization and Lensing Science), which took the Webb observations.
+What the Colors Mean
+To make the image, in general the shortest wavelengths of light were color-coded blue, the longest wavelengths red, and intermediate wavelengths green. The broad range of wavelengths, from 0.4 to 5 microns, yields a particularly vivid landscape of galaxies.
+Those colors give clues to galaxy distances: The bluest galaxies are relatively nearby and often show intense star formation, as best detected by Hubble, while the redder galaxies tend to be more distant as detected by Webb.
+Some galaxies also appear very red because they contain copious amounts of cosmic dust that tends to absorb bluer colors of starlight.
+“The whole picture doesn’t become clear until you combine Webb data with Hubble data,” said Windhorst.
+Christmas Tree Galaxy Cluster
+While the new Webb observations contribute to this aesthetic view, they were taken for a specific scientific purpose. 
+The research team combined their three epochs of observations, each taken weeks apart, with a fourth epoch from the CANUCS (Canadian NIRISS Unbiased Cluster Survey) research team. 
+The goal was to search for objects varying in observed brightness over time, known as transients.
+They identified 14 such transients across the field of view.
+Twelve of those transients were located in three galaxies that are highly magnified by gravitational lensing, and are likely to be individual stars or multiple-star systems that are briefly very highly magnified.
+The remaining two transients are within more moderately magnified background galaxies and are likely to be supernovae.
+“We’re calling MACS0416 the Christmas Tree Galaxy Cluster, both because it’s so colorful and because of these flickering lights we find within it. 
+We can see transients everywhere,” said Haojing Yan of the University of Missouri in Columbia, lead author of one paper describing the scientific results.
+Finding so many transients with observations spanning a relatively short time frame suggests that astronomers could find many additional transients in this cluster and others like it through regular monitoring with Webb.
+A Kaiju Star
+Among the transients the team identified, one stood out in particular. Located in a galaxy that existed about 3 billion years after the big bang, it is magnified by a factor of at least 4,000. The team nicknamed the star system “Mothra” in a nod to its “monster nature,” being both extremely bright and extremely magnified. It joins another lensed star the researchers previously identified that they nicknamed “Godzilla.” (Both Godzilla and Mothra are giant monsters known as kaiju in Japanese cinema.)
+Interestingly, Mothra is also visible in the Hubble observations that were taken nine years previously.
+This is unusual, because a very specific alignment between the foreground galaxy cluster and the background star is needed to magnify a star so greatly. The mutual motions of the star and the cluster should have eventually eliminated that alignment.
+The most likely explanation is that there is an additional object within the foreground cluster that is adding more magnification. The team was able to constrain its mass to be between 10,000 and 1 million times the mass of our Sun.
+The exact nature of this so-called “milli-lens,” however, remains unknown.
+“The most likely explanation is a globular star cluster that’s too faint for Webb to see directly,” stated Jose Diego of the Instituto de Física de Cantabria in Spain, lead author of the paper detailing the finding.
+“But we don’t know the true nature of this additional lens yet.”
+The Yan et al. paper is accepted for publication in The Astrophysical Journal.
+The Diego et al. paper has been published in Astronomy & Astrophysics.
+The Webb data shown here was obtained as part of PEARLS GTO program 1176.
+The James Webb Space Telescope is the world’s premier space science observatory.
+Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars, and probing the mysterious structures and origins of our universe and our place in it. Webb is an international program led by NASA with its partners, ESA (European Space Agency) and the Canadian Space Agency.
+The Hubble Space Telescope is a project of international cooperation between NASA and ESA.
+NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the telescope.
+The Space Telescope Science Institute (STScI) in Baltimore, Maryland, conducts Hubble and Webb science operations. STScI is operated for NASA by the Association of Universities for Research in Astronomy, in Washington, D.C.
+Dominated by dark matter, massive cluster of galaxies Abell 2744 is known to some as Pandora’s Cluster.
+It lies 3.5 billion light-years away toward the constellation Sculptor.
+Using the galaxy cluster’s enormous mass as a gravitational lens to warp spacetime and magnify even more distant objects directly behind it, astronomers have found a background galaxy, UHZ1, at a remarkable redshift of Z=10.1.
+That puts UHZ1 far beyond Abell 2744, at a distance of 13.2 billion light-years, seen when our universe was about 3 percent of its current age.
+UHZ1 is identified in the insets of this composited image combining X-rays (purple hues) from the spacebased Chandra X-ray Observatory and infrared light from the James Webb Space Telescope.
+The X-ray emission from UHZ1 detected in the Chandra data is the telltale signature of a growing supermassive black hole at the center of the ultra high redshift galaxy.
+That makes UHZ1’s growing black hole the most distant black hole ever detected in X-rays, a result that now hints at how and when the first supermassive black holes in the universe formed.

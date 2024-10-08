@@ -18,7 +18,7 @@ def enleve_ascii(chemin, nom_fichier, nveau_nom_fichier):
 	
 def retourne_ligne_cn(chemin, nom_fichier, nveau_nom_fichier):
 	"""
-		Prend un fichier de tete écrit en chinois en entrée
+		Prend un fichier de texte écrit en chinois en entrée
 		le split sur le caractère de ponctuation chinois de fin de phrase : 。
 		écrit chaque phrase dans un nouveau fichier au format string
 		reprend le nouveau fichier pour remplacer les coupures

@@ -36,7 +36,6 @@ def all_links (url):
 		# Get the html content
 		html = webpage.read()
 		soup = BeautifulSoup(html, "html.parser")
-		#print(f"soup : {soup}\n")
 
 	# Création de tags pour chaque URl récupéré
 	for a_tag in soup.find_all('a'):
@@ -131,7 +130,6 @@ if __name__ == '__main__':
 	# url d'entrée
 	url_entree = "https://www.safran-group.com/fr/groupe/presentation/espace"
 	links = all_links(url_entree)
-	#print(links)
 	
 	# Liste des langues recherchées : les langues ont été identifiées visuellement dans le code source de la page
 	list_id_lang = ['en','zh-Hans']
@@ -225,7 +223,7 @@ if __name__ == '__main__':
 # 		print(classe)
 # 		print(classe.get_text())
 		
-	# écrire dans des fichiers séparés par langue
+	# écrire dans des fichiers textes séparés par langue, en vue de les aligner ensuite
 # 	cpteur_file = 81
 # 	cpteur_lang = 0
 # 	cpteurd = 0
@@ -257,8 +255,9 @@ if __name__ == '__main__':
 					
 				cpteur_index+=1
 			
-				
-# 	Dico des contenus dans toutes les langues (langue d'entrée est en)
+	
+# 	Si on veut faire des dicos
+# Dico des contenus dans toutes les langues (langue d'entrée est en)
 # 	dico={}
 # 	1ère étape : Remplissage du dico avec les contenus en fr
 	# cpteur_ctrl = 0
